@@ -70,7 +70,8 @@ you typed in "next": `22 input = 9697;`. What will be printed if you enter
 
 5. Following question 4, which is the next line to execute if you enter `next`? 
 **(1 point)**
-	22 input = 9697;
+
+ 	22 input = 9697;
 
        <!-- (gdb) next -->
        <!--	23	    output = is_prime(input); -->
