@@ -2,8 +2,7 @@
 # Homework 1
 
 Name: Shouvik Guha  
-PID: 
-Account:
+
 
 ## Getting Started
 
