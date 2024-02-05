@@ -1,8 +1,6 @@
 # Homework 3
 
 Name: Shouvik Guha 
-PID: A15990598
-Account: \<cs15lfa20aoz@ieng6.ucsd.edu\>  
 
 ## Getting Started
 
